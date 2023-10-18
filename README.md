@@ -14,6 +14,7 @@ git clone https://github.com/surveyjs/surveyjs_react_quickstart.git
 cd surveyjs_react_quickstart
 npm i
 npm run start
+
 ```
 
 Open http://localhost:3000/ in your web browser.
